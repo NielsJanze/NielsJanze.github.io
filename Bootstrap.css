@@ -1,0 +1,45 @@
+.achtergrond {
+    background-image: url('https://www.nawpic.com/media/2020/mountain-nawpic-5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+.tekst {
+    color: white !important;
+}
+.socialmedia {
+    height: 40px;
+}
+.over {
+    width: 20%;
+}
+.groen {
+    background-color: #27AE60 !important;
+}
+.tekst2 {
+    font-size:100%;
+}
+.percentage {
+    text-align: right;
+}
+.stagefoto {
+    height: 300px;
+}
+.stagefoto_2 {
+    height: 250px;
+}
+.schaduw {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 1px 1px 12px 2px #888888;
+}
+.extra_padding {
+    padding-top: 100px;
+}
+.rekenmachine {
+    height: 50px;
+    width: 100%;
+}
+.reken_balk {
+    height: 50px;
+}
